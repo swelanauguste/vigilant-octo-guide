@@ -6,10 +6,30 @@ html, body{
     font-family: 'Montserrat', sans-serif;
 }
 
+.bg-blue {
+    background-color: #122437;
+}
+
+.bg-blue:hover {
+    background-color: #1f3247;
+}
+
 .bg-pink {
-    background-color: #FF61DC;
+    background-color: #963279;
 }
 
 .bg-pink:hover {
-    background-color: #f04fcd;
+    background-color: #a04e89;
+}
+
+.bg-orange {
+    background-color: #D46830;
+}
+
+.bg-orange:hover {
+    background-color: #d57d52;
+}
+
+.text-orange {
+    color: #D46830;
 }
