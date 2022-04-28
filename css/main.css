@@ -6,9 +6,14 @@ html, body{
     font-family: 'Montserrat', sans-serif;
 }
 
+.text-blue {
+    color: #122437;
+}
+
 .bg-blue {
     background-color: #122437;
 }
+
 
 .bg-blue:hover {
     background-color: #1f3247;
